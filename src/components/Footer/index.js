@@ -86,7 +86,7 @@ function Footer() {
     return (
         <FooterContainer>
             <FooterWrapper>
-                <Logo>Sameer Gonde</Logo>
+                <Logo>Sarthak Rajput</Logo>
                 <Nav>
                     <NavLink href="#about">About</NavLink>
                     <NavLink href="#skills">Skills</NavLink>
@@ -99,7 +99,7 @@ function Footer() {
                     <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
                 </SocialMediaIcons>
                 <Copyright>
-                    &copy; 2023 Sameer Gonde. All rights reserved.
+                    &copy; 2023 Sarthak Rajput. All rights reserved.
                 </Copyright>
 
             </FooterWrapper>
